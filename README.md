@@ -1,2 +1,4 @@
-Facade Pattern:
-Bietet ein einheitliches Interface für eine Menge an Interfaces in einem Subsystem. Facade definiert ein hochleveliges Interface um die Subsysteme einfacher benutzen zu können.
+
+Template:
+Template Methode Pattern definiert ein Skelett für einen Algorithmus in einer Methode, wobei Schritte an die Subklassen delegiert werden. Subklassen redefinieren gewissen Schritte ohne die Struktur zu verändern.
+Ein Hauptziel ist duplizierten Code vermeiden.
